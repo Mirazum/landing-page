@@ -1,0 +1,35 @@
+.head-text {
+    position: relative;
+    color: white
+}
+
+.center-text {
+    position: absolute;
+    top: 50%;
+    left: 60%;
+    /* transform: translate(-50%, -50%); */
+}
+
+.heading-text {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 28px;
+    line-height: 30px;
+    /* or 150% */
+
+    
+}
+.navbar {
+    margin-top: 0;
+  }
+.button-left{
+    position: absolute;
+    /* top: 50%; */
+    left: 60%;
+}
+
+body {
+    background-color:
+    #609ABD;
+  }

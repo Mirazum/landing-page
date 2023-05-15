@@ -1,0 +1,184 @@
+ [
+        {
+            "skills": {
+                "html": "novice",
+                "css": "competence",
+                "javascript": "proficiency",
+                "react": "expertise",
+                "python": "mastery",
+                "nodejs": "novice",
+                "ror": "competence",
+                "c++": "proficiency"
+            },
+            "name": "Tuukka",
+            "id": "64538a4ee9d686b64245a615"
+        },
+        {
+            "skills": {
+                "html": "novice",
+                "css": "competence",
+                "javascript": "proficiency",
+                "react": "expertise",
+                "python": "mastery",
+                "nodejs": "novice",
+                "ror": "competence",
+                "c++": "proficiency"
+            },
+            "name": "Patrice",
+            "id": "64538a5be9d686b64245a617"
+        },
+        {
+            "skills": {
+                "html": "novice",
+                "css": "competence",
+                "javascript": "proficiency",
+                "react": "expertise",
+                "python": "mastery",
+                "nodejs": "novice",
+                "ror": "competence",
+                "c++": "proficiency"
+            },
+            "name": "Raja",
+            "id": "64538a63e9d686b64245a619"
+        },
+        {
+            "skills": {
+                "html": "novice",
+                "css": "competence",
+                "javascript": "proficiency",
+                "react": "expertise",
+                "python": "mastery",
+                "nodejs": "novice",
+                "ror": "competence",
+                "c++": "proficiency"
+            },
+            "name": "Esther",
+            "id": "64538a70e9d686b64245a61b"
+        },
+        {
+            "skills": {
+                "html": "novice",
+                "css": "competence",
+                "javascript": "proficiency",
+                "react": "expertise",
+                "python": "mastery",
+                "nodejs": "novice",
+                "ror": "competence",
+                "c++": "proficiency"
+            },
+            "name": "Juhis",
+            "id": "64538a79e9d686b64245a61d"
+        },
+        {
+            "skills": {
+                "html": "novice",
+                "css": "competence",
+                "javascript": "proficiency",
+                "react": "expertise",
+                "python": "mastery",
+                "nodejs": "novice",
+                "ror": "competence",
+                "c++": "proficiency"
+            },
+            "name": "Jesse",
+            "id": "64538a82e9d686b64245a61f"
+        },
+        {
+            "skills": {
+                "html": "novice",
+                "css": "competence",
+                "javascript": "proficiency",
+                "react": "expertise",
+                "python": "mastery",
+                "nodejs": "novice",
+                "ror": "competence",
+                "c++": "proficiency"
+            },
+            "name": "Zabi",
+            "id": "64538a91e9d686b64245a621"
+        },
+        {
+            "skills": {
+                "html": "novice",
+                "css": "competence",
+                "javascript": "proficiency",
+                "react": "expertise",
+                "python": "mastery",
+                "nodejs": "novice",
+                "ror": "competence",
+                "c++": "proficiency"
+            },
+            "name": "Warda",
+            "id": "64538a9ae9d686b64245a623"
+        },
+        {
+            "skills": {
+                "html": "novice",
+                "css": "competence",
+                "javascript": "proficiency",
+                "react": "expertise",
+                "python": "mastery",
+                "nodejs": "novice",
+                "ror": "competence",
+                "c++": "proficiency"
+            },
+            "name": "Serica",
+            "id": "64538aa1e9d686b64245a625"
+        },
+        {
+            "skills": {
+                "html": "novice",
+                "css": "competence",
+                "javascript": "proficiency",
+                "react": "expertise",
+                "python": "mastery",
+                "nodejs": "novice",
+                "ror": "competence",
+                "c++": "proficiency"
+            },
+            "name": "Mira",
+            "id": "64538aa8e9d686b64245a627"
+        },
+        {
+            "skills": {
+                "html": "novice",
+                "css": "competence",
+                "javascript": "proficiency",
+                "react": "expertise",
+                "python": "mastery",
+                "nodejs": "novice",
+                "ror": "competence",
+                "c++": "proficiency"
+            },
+            "name": "Henna",
+            "id": "64538aafe9d686b64245a629"
+        },
+        {
+            "skills": {
+                "html": "novice",
+                "css": "competence",
+                "javascript": "proficiency",
+                "react": "expertise",
+                "python": "mastery",
+                "nodejs": "novice",
+                "ror": "competence",
+                "c++": "proficiency"
+            },
+            "name": "Mikko",
+            "id": "64538ab8e9d686b64245a62b"
+        },
+        {
+            "skills": {
+                "html": "novice",
+                "css": "competence",
+                "javascript": "proficiency",
+                "react": "expertise",
+                "python": "mastery",
+                "nodejs": "novice",
+                "ror": "competence",
+                "c++": "proficiency"
+            },
+            "name": "Arto",
+            "id": "64538ac1e9d686b64245a62d"
+        }
+    ]
